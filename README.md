@@ -8,14 +8,13 @@ Welcome to the My Smart Scanner Project! This project provides a real-time objec
 
 
 Features:
-![image 2_page-0001](https://github.com/stutichaurasia238/opencv_scanner/assets/145449188/9b357a75-6ab1-4bb6-bcb9-521783567bf0)
 
 * Real-time object detection using OpenCV
 * Capture images from a camera
 * Detect objects using contour detection and edge detection
 * Draw bounding rectangles around detected objects
 * Save detected objects as PDF files
-
+![image 2_page-0001](https://github.com/stutichaurasia238/opencv_scanner/assets/145449188/9b357a75-6ab1-4bb6-bcb9-521783567bf0)
 
 How to Use:
 
